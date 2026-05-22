@@ -1,0 +1,23 @@
+Plaintext
+# Banco de Dados (Ignora qualquer arquivo de banco de dados SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Pastas de ambiente virtual (se você criou uma venv)
+venv/
+.venv/
+env/
+
+# Arquivos temporários e caches do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Arquivos de configuração do VS Code (opcional)
+.vscode/
+
+# Planilhas de teste (para garantir que a planilha Excel que você usou não vá junto)
+*.xlsx
+*.xls
+*.csv

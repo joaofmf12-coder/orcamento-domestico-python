@@ -1,0 +1,22 @@
+# ================================
+# ORÇAMENTO DOMÉSTICO - DEPENDÊNCIAS
+# ================================
+
+# Framework Web (Interface)
+streamlit==1.31.0
+
+# Manipulação de Dados
+pandas==2.2.0
+numpy==1.26.3
+
+# Gráficos
+plotly==5.18.0
+
+# Banco de Dados
+sqlalchemy==2.0.25
+
+# Utilitários
+python-dateutil==2.8.2
+
+# Importação de Extratos Bancários (OFX)
+ofxparse==0.21
