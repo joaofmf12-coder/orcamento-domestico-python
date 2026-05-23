@@ -156,7 +156,7 @@ A aplicação estará disponível em http://localhost:8501
 
 📚 Aprendizados e Desafios
 
-#Este projeto foi uma excelente oportunidade para consolidar conhecimentos em:
+#Este projeto foi uma excelente oportunidade de aprendizado. Ao desenvolver os códigos juntamente com IA, ampliei conhecimentos em:
 
 
 Arquitetura de Software — Separação de responsabilidades (MVC adaptado)
